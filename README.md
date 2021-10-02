@@ -1,4 +1,4 @@
-### Hi there, I'm Jorge <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   
+### Hello friend, I'm Jorge <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-222222?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/engincan-veske-b4a75b145/)](https://www.linkedin.com/in/jorge-gonz%C3%A1lez-pascual-3a539620b/)
 [![GitHub Thaiane](https://img.shields.io/github/followers/JorgeGonzalezPascual?label=follow&style=social)](https://github.com/JorgeGonzalezPascual)
