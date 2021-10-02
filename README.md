@@ -5,6 +5,9 @@
 
 <img src="https://komarev.com/ghpvc/?username=bear-03&label=Profile%20views&color=0e75b6&style=flat" alt="bear-03" />
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
 
@@ -34,8 +37,5 @@
   ![Premiere](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-premiere-pro)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![Lightroom](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-lightroom)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
