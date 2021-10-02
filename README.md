@@ -1,4 +1,4 @@
-### Hi there, I'm Jorge <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> <img src="https://komarev.com/ghpvc/?username=bear-03&label=Profile%20views&color=0e75b6&style=flat" alt="bear-03" />
+### Hi there, I'm Jorge <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">    <img src="https://komarev.com/ghpvc/?username=bear-03&label=Profile%20views&color=0e75b6&style=flat" alt="bear-03" />
 
 
 
