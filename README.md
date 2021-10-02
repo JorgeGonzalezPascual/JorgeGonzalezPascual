@@ -33,7 +33,7 @@
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-premiere)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
-  ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-lightroom)
+  ![Lightroom](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-lightroom)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
