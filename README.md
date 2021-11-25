@@ -5,5 +5,5 @@
 
 <img src="https://komarev.com/ghpvc/?username=JorgeGonzalezPascual&label=Profile%20views&color=59405c&style=flat" alt="JorgeGonzalezPascual" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&theme=radical&show_icons=true) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
