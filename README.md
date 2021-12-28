@@ -8,14 +8,14 @@ Always in the shade but with the white hat.
 
 ### About Projects:
 
-<details>	
+
   <b>🌟 Github Stats 🌟</b>
 
   <br />
 	
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-</details>
+
 
 <details>	
   <summary><b> :fire: Github Streaks :fire: </b></summary>
