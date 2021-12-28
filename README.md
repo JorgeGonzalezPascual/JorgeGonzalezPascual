@@ -5,10 +5,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=JorgeGonzalezPascual&label=Profile%20views&color=59405c&style=flat" alt="JorgeGonzalezPascual" />
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&theme=radical&show_icons=true) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JorgeGonzalezPascual&show_icons=true&theme=radical&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JorgeGonzalezPascual&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8&theme=radical"/>
 
 
