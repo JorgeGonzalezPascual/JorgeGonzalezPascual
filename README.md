@@ -6,10 +6,10 @@
 <img src="https://komarev.com/ghpvc/?username=JorgeGonzalezPascual&label=Profile%20views&color=59405c&style=flat" alt="JorgeGonzalezPascual" />
 
 
-### Projects and Dev Stuffs:
+### About Projects:
 
 <details>	
-  <summary><b>⚡ Github Stats</b></summary>
+  <summary><b>🌟 Github Stats 🌟</b></summary>
 
   <br />
 	
@@ -18,7 +18,7 @@
 </details>
 
 <details>	
-  <summary><b>☄️ Github Streaks</b></summary>
+  <summary><b> Github Streaks :fire: </b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeGonzalezPascual&hide_border=true&theme=radical" />
