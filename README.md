@@ -18,7 +18,7 @@
 </details>
 
 <details>	
-  <summary><b> Github Streaks :fire: </b></summary>
+  <summary><b> :fire: Github Streaks :fire: </b></summary>
 
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeGonzalezPascual&hide_border=true&theme=radical" />
