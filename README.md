@@ -9,7 +9,7 @@ Always in the shade but with the white hat.
 ### About Projects:
 
 <details>	
-  <summary><b>🌟 Github Stats 🌟</b></summary>
+  <b>🌟 Github Stats 🌟</b>
 
   <br />
 	
