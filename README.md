@@ -4,6 +4,7 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/JorgeGonzalezPascual?label=follow&style=social)](https://github.com/JorgeGonzalezPascual)
 <img src="https://komarev.com/ghpvc/?username=JorgeGonzalezPascual&label=Profile%20views&color=59405c&style=flat" alt="JorgeGonzalezPascual" />
 
+Always in the shade but with the white hat.
 
 ### About Projects:
 
