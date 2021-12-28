@@ -23,3 +23,14 @@ Always in the shade but with the white hat.
   <br />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=JorgeGonzalezPascual&hide_border=true&theme=radical" />
 </details>
+
+#
+
+<div align="center">
+
+### Have a nice day, drink water and eat your veggies 
+<br />
+	
+"Passwords are like underwear. You cannot let anyone see it, you must change it regularly and you must not share it with strangers"
+
+</div>
