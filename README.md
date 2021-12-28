@@ -28,7 +28,7 @@ Always in the shade but with the white hat.
 
 <div align="center">
 
-### Have a nice day, drink water and eat your veggies 
+### Be careful where you type
 <br />
 	
 "Passwords are like underwear. You cannot let anyone see it, you must change it regularly and you must not share it with strangers"
