@@ -1,4 +1,4 @@
-### Hello friend <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">   
+### Hello friend <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="4px">   
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/PlatanosVerdes?label=follow&style=social)](https://github.com/PlatanosVerdes)
 <img src="https://komarev.com/ghpvc/?username=PlatanosVerdes&label=Profile%20views&color=59405c&style=flat" alt="PlatanosVerdes" />
