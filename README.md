@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00F72B&lines=Hello+friend.;Welcome+to+my+space)](https://git.io/typing-svg)
 
-Sometimes I do interesting things
+Sometimes I do interesting things...
 
 ### About Projects:
 
